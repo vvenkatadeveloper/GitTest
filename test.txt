@@ -1,3 +1,4 @@
+added for commit
 added some text from newcommittest
 from master
 changed from committestbranch
