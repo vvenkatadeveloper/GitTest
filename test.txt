@@ -1,3 +1,5 @@
+testbranchwithoutcommit
+added after commit
 added for commit
 added some text from newcommittest
 from master
