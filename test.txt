@@ -1,4 +1,9 @@
 added some text from newcommittest
+from master
+changed from committestbranch
+testing addition of text after staging
+
+added for commit
 AA
 BB - added in testbranch1
 CC - changed on branchtobranch
