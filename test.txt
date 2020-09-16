@@ -1,3 +1,4 @@
+added some text from newcommittest
 AA
 BB - added in testbranch1
 CC - changed on branchtobranch
