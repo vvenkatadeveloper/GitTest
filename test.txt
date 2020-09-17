@@ -1,3 +1,4 @@
+Adding a line via github edit. 
 testbranchwithoutcommit
 added after commit
 added for commit
